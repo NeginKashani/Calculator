@@ -1,4 +1,5 @@
 # Calculator
+![calculator](https://github.com/NeginKashani/Calculator/assets/109550062/fac869cd-f908-4bdf-8a20-c0b2a83774c6)
 
 
 - [Demo Project](https://neginkashani.github.io/Calculator/)
